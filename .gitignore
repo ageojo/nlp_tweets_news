@@ -3,7 +3,7 @@ runme.sh
 sm_dropbox/
 
 # ipython previous
-*.ipynb
+#*.ipynb
 
 # Folder view configuration files
 .DS_Store
